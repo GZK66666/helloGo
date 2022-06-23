@@ -4,5 +4,6 @@ import "fmt"
 
 func fuck2() {
 	// feature1-commit1
+	// feature2-commit1
 	fmt.Println("fuck you 2!")
 }
