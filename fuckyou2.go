@@ -9,4 +9,5 @@ func fuck2() {
 	// feature1-commit2
 	fmt.Println("fuck you 2!")
 	// feature1-commit3
+	// feature2-1-commit1
 }
